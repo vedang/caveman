@@ -1,0 +1,10 @@
+{
+  "name": "caveman",
+  "version": "0.1.0",
+  "description": "Pi package for caveman skills and caveman-compress.",
+  "keywords": ["pi-package", "pi", "skills", "caveman"],
+  "license": "MIT",
+  "pi": {
+    "skills": ["./skills", "./caveman-compress"]
+  }
+}
